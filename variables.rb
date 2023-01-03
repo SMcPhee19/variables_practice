@@ -7,3 +7,6 @@ birth_month = 7
 pi = 3.14
 golden_ratio = 1.618
 tau = 6.28
+college_graduate = true
+ate_breakfast = false
+went_to_class = true
