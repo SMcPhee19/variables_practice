@@ -4,4 +4,6 @@ hobby = "golf"
 age = 27
 birth_year = 1995
 birth_month = 7
-
+pi = 3.14
+golden_ratio = 1.618
+tau = 6.28
